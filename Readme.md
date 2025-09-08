@@ -16,7 +16,8 @@ Graduado de **Escuela Superior de Cómputo**, impulsado por una pasión profunda
 <img align="left" alt="Linux" width="24" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />  
 <img align="left" alt="Electron" width="24" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" />
 
-`Python`, `JavaScript`, `React`, `Node.js`, `Docker`, `Linux`, `Electron.js`
+
+<br/>
 
 ###  Lo que me define
 Soy una persona que aprende con rapidez, siempre dispuesto a mejorar y adquirir nuevas habilidades. Amo el open-source, disfruto colaborar y explorar nuevas tecnologías. Mi objetivo es crecer como desarrollador.
